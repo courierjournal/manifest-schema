@@ -1,3 +1,5 @@
+**STATUS:** depecrated. See Projects Kit for more on how interactive content gets built.
+
 # Manifest schema
 Documentation for the `cj-manifest.json` file that goes in to all Courier Journal off-platform interactive content.
 
